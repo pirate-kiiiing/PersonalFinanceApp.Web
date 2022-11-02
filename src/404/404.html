@@ -1,0 +1,10 @@
+<script>
+  // https://medium.com/swlh/how-to-host-your-angular-reactjs-vuejs-spa-on-github-pages-2d9ab102ac7b
+  let path = window.location.pathname;
+  // remove trailing slash if it exists
+  path = (path.charAt(path.length - 1) === '/')
+    ? path.slice(0, -1) : path;
+
+  sessionStorage.setItem('path', path);
+  window.location.href='../';
+</script>
