@@ -1,5 +1,17 @@
 # PersonalFinanceApp.Web
 
+PIRATE KING's personal finance app FRONTEND
+
+Tech Stack:
+
+- TypeScript
+- JavaScript
+- Vue.js
+- Google Charts
+- axios.js
+- lodash
+- moment.js
+
 ## Project setup
 ```
 npm install
