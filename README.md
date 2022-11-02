@@ -4,7 +4,7 @@
 ***The open-source version was modified slightly and, as a result, might not build.***
 ***The app's no longer maintained is for reference only.***
 
-PIRATE KING's personal finance app FRONTEND
+**PIRATE KING's personal finance app FRONTEND**
 
 Tech Stack:
 
